@@ -1,0 +1,6 @@
+{
+    "name": "asafov/example",
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
